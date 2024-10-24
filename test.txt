@@ -1,0 +1,7 @@
+Subdomain is DOWN: AS207960 Test Intermediate - example.com
+Subdomain is UP: www.example.com, Status code: 200
+Subdomain is DOWN: dev.example.com
+Subdomain is DOWN: m.example.com
+Subdomain is DOWN: products.example.com
+Subdomain is DOWN: support.example.com
+Subdomain is DOWN: m.testexample.com
